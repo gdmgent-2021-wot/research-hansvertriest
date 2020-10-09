@@ -23,6 +23,16 @@ Een simpel voorbeeld is een grafiek. De data wordt op een grafiek geplot en door
 
 Big Data ⇒ verwerking ⇒ visualisatie ⇒ inzichten ⇒ act
 
-## Welke technieken worden er gebruikt?
+## Types visualisatie
 
-Tbc.
+![graphs](https://www.typesofgraphs.com/wp-content/uploads/2015/12/Typesofgraphs.png)
+
+- kaarten
+- grafieken
+- taart-/donut-grafieken
+- histogram
+- spreiding
+- word-clouds
+- network diagrams
+- ...
+

@@ -1,15 +1,13 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: https://miro.medium.com/max/4000/1*UyL8Bnd1rL-UZMehT-zzHA.jpeg
 tagline: Mannual for datavisualisation of big data
-actionText: Quick Start →
-actionLink: /guide/
+actionText: Start Learning! →
+actionLink: /theory/
 features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
-footer: Made by  with ❤️
+- title: De theorie 📖
+  details: Leer meer over Big Data, waarom we het visualiseren en hoe je een verhaal vertelt met datavisualisatie.
+- title: Het Project 🛠
+  details: We zetten de theorie ook eens om in praktijk.
+footer: Made by Hans Vertriest with 😭
 ---

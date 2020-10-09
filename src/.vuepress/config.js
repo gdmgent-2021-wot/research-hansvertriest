@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'Datavisualisation of Big Data',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -34,26 +34,22 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Theorie',
+        link: '/theory/',
       },
       {
-        text: 'Config',
-        link: '/config/'
-      },
-      {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'Project',
+        link: '/projectPage/'
       }
     ],
     sidebar: {
-      '/guide/': [
+      '/theory/': [
         {
-          title: 'Guide',
-          collapsable: false,
+          title: 'Theorie',
+          // collapsable: true,
           children: [
-            '',
-            'using-vue',
+            '/',
+            ['Introduction', './README.md'],
           ]
         }
       ],
